@@ -4,14 +4,13 @@ Hi 👋 My name is Dastan Turysbekov
 Full Stack Web Developer (Front-end/Back-end)
 ---------------------------------------------
 
-* 🌍  I'm based in Shymkent
-* ✉️  You can contact me at [uitlaber@gmail.com](mailto:uitlaber@gmail.com)
+* 🌍  I'm based in Shymkent
+* ✉️  You can contact me at [uitlaber@gmail.com](mailto:uitlaber@gmail.com)
 
 <a href="https://www.twitter.com/uitlaber" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/uitlaber?logo=twitter&style=for-the-badge&color=0891b2&labelColor=ffffff"
 /></a><a href="https://www.github.com/uitlaber" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/uitlaber?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a>
-
 ### Skills
 
 <p align="left">
@@ -42,18 +41,10 @@ src="https://img.shields.io/github/followers/uitlaber?logo=github&style=for-the-
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/uitlaber" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/uitlaber" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dastan-turysbekov-371310129/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/uitlaber" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/uitlaber"><img src="https://github-readme-stats.vercel.app/api?username=uitlaber&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="uitlaber's GitHub stats" /></a>
 
 <a href="http://www.github.com/uitlaber"><img src="https://github-readme-streak-stats.herokuapp.com/?user=uitlaber&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-
-<a href="http://www.github.com/uitlaber"><img src="https://activity-graph.herokuapp.com/graph?username=uitlaber&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/uitlaber" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uitlaber&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
